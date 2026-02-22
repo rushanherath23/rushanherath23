@@ -1,133 +1,91 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1d4ed8&height=220&section=header&text=Rushan&fontSize=80&fontColor=e2e8f0&fontAlignY=35&desc=Software%20Developer%20%40%20London%20Institute%20of%20Business%20%26%20Technology&descSize=16&descAlignY=55&descColor=64ffda&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f7b93&height=220&section=header&text=Rushan&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Founder%20%40EsolutionsLK%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+EdTech+Solutions+%40+LIBT+%F0%9F%8E%93;React+%E2%80%A2+Node.js+%E2%80%A2+Flutter+%E2%80%A2+Cloud+Architecture+%E2%98%81%EF%B8%8F;Empowering+Education+Through+Technology+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0F7B93&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%87%B1%F0%9F%87%B0+Building+Digital+Solutions+from+Sri+Lanka;React+%7C+Flutter+%7C+Node.js+%7C+Cloud+%E2%98%81%EF%B8%8F;Turning+Ideas+into+Impactful+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social Badges -->
-<a href="https://www.libt.co.uk">
-  <img src="https://img.shields.io/badge/🏛️_LIBT-0a192f?style=for-the-badge&logoColor=64ffda" alt="LIBT"/>
-</a>
-<a href="https://linkedin.com/in/rushanherath23">
-  <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=64ffda" alt="LinkedIn"/>
-</a>
-<a href="mailto:your.name@libt.co.uk">
-  <img src="https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda" alt="Email"/>
-</a>
-<a href="https://github.com/Rushan-LIBT">
-  <img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=64ffda" alt="GitHub"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_EsolutionsLK-0d1117?style=for-the-badge&logo=google-chrome&logoColor=0f7b93)](https://esolutionslk.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rushan-herath-611533235/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rushanherath23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Rushan-LIBT)
 
 </div>
 
 ---
 
-## `> whoami` 🧑‍💻
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```js
-const rushan = {
-    role: "Software Developer",
-    company: "London Institute of Business & Technology (LIBT)",
-    location: "🇱🇰 Sri Lanka → 🇮🇲 Isle of Man, UK",
-    focus: "Building scalable EdTech platforms & digital solutions",
-    
-    dailyStack: ["React", "Node.js", "Flutter", "MongoDB", "Supabase"],
-    
-    currentWork: {
-        platform: "LIBT Digital Learning Ecosystem",
-        mission: "Empowering 4000+ professionals worldwide through technology",
-        areas: [
-            "Learning Management Systems",
-            "Student Portal & Experience",
-            "Internal Tools & Automation",
-            "Web & Mobile Applications"
-        ]
-    },
-    
-    philosophy: "Code with purpose. Build for impact. 🚀"
-};
+## 🧑‍💻 About Me
+
+```yaml
+name: Rushan
+location: Sri Lanka 🇱🇰
+company: EsolutionsLK (Founder)
+role: Full-Stack Developer & Digital Solutions Architect
+languages: [Sinhala, English, Tamil]
+currently_building:
+  - SewaLanka (Service Discovery Marketplace)
+  - RushChat (Real-Time Chat App)
+  - RushHeart (Relationship Lifecycle App)
+passion: Crafting innovative digital products for Sri Lanka
+fun_fact: "Also a 3D printing enthusiast with a CR-10S! 🖨️"
 ```
+
+<br clear="both"/>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Arsenal
 
 <div align="center">
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-0a192f?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-0a192f?style=for-the-badge&logo=flutter&logoColor=02569B)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a192f?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a192f?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Dart](https://img.shields.io/badge/Dart-0a192f?style=for-the-badge&logo=dart&logoColor=0175C2)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0a192f?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Vite](https://img.shields.io/badge/Vite-0a192f?style=for-the-badge&logo=vite&logoColor=646CFF)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-0a192f?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0a192f?style=for-the-badge&logo=express&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a192f?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![Supabase](https://img.shields.io/badge/Supabase-0a192f?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Firebase](https://img.shields.io/badge/Firebase-0a192f?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a192f?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ☁️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-0a192f?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=ffffff)
-![Render](https://img.shields.io/badge/Render-0a192f?style=for-the-badge&logo=render&logoColor=46E3B7)
-![Vercel](https://img.shields.io/badge/Vercel-0a192f?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0a192f?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
-![Postman](https://img.shields.io/badge/Postman-0a192f?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Figma](https://img.shields.io/badge/Figma-0a192f?style=for-the-badge&logo=figma&logoColor=F24E1E)
+### 🛠️ Tools & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🏗️ What I Build at LIBT
+## 🚀 Featured Projects
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   🎓  LIBT Digital Ecosystem                                   │
-│                                                                 │
-│   ┌──────────────┐  ┌──────────────┐  ┌──────────────┐        │
-│   │  📚 Learning │  │  👥 Student  │  │  🔧 Internal │        │
-│   │  Platform    │  │  Portal      │  │  Tools       │        │
-│   │              │  │              │  │              │        │
-│   │  • LMS       │  │  • Dashboard │  │  • Staff     │        │
-│   │  • Courses   │  │  • Progress  │  │    Portal    │        │
-│   │  • Assess.   │  │  • Resources │  │  • Leave Mgt │        │
-│   └──────┬───────┘  └──────┬───────┘  └──────┬───────┘        │
-│          │                 │                 │                 │
-│          └────────────┬────┴─────────────────┘                 │
-│                       │                                        │
-│            ┌──────────┴──────────┐                             │
-│            │  ☁️  Cloud & APIs   │                             │
-│            │  Node.js • Supabase │                             │
-│            │  MongoDB • REST     │                             │
-│            └─────────────────────┘                             │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+| 🏗️ Project | 📋 Description | 🔧 Tech Stack |
+|:-----------|:--------------|:-------------|
+| **SewaLanka** | Service discovery marketplace connecting Sri Lankan service providers with customers | React, Node.js, MongoDB |
+| **RushChat** | Feature-rich real-time chat app with unique "Couple Space" features | React, Supabase, WebSockets |
+| **RushHeart** | Innovative relationship lifecycle mobile app | Flutter, Dart, Firebase |
+| **EsolutionsLK** | Digital solutions company website & client projects | React, Vite, TailwindCSS |
 
 </div>
-
-| Area | Description | Tech |
-|:-----|:-----------|:-----|
-| 🌐 **Web Platforms** | LIBT's public-facing websites, landing pages & marketing sites | React, Vite, TailwindCSS |
-| 📚 **Learning Systems** | Digital learning ecosystem supporting 4000+ professionals globally | Node.js, MongoDB, REST APIs |
-| 👥 **Student Experience** | Portals, dashboards & tools for student engagement | React, Supabase, PostgreSQL |
-| 🔧 **Internal Tools** | Staff portals, leave management, HR automation systems | React, Node.js, Supabase |
-| 📱 **Mobile Apps** | Cross-platform applications for on-the-go learning | Flutter, Dart, Firebase |
 
 ---
 
@@ -135,18 +93,18 @@ const rushan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rushan-LIBT&show_icons=true&hide_border=false&count_private=true&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9&bg_color=0a192f&border_color=1d4ed8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushan-LIBT&background=0a192f&border=1d4ed8&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=c9d1d9&dates=8b949e&currStreakNum=e2e8f0&sideNums=e2e8f0" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rushan-LIBT&show_icons=true&theme=github_dark&border_color=0f7b93&title_color=0f7b93&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushan-LIBT&theme=github-dark-blue&border=0f7b93&ring=0f7b93&fire=58a6ff&currStreakLabel=0f7b93&sideLabels=c9d1d9&background=0d1117&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushan-LIBT&layout=compact&title_color=64ffda&text_color=c9d1d9&bg_color=0a192f&border_color=1d4ed8&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushan-LIBT&layout=compact&theme=github_dark&border_color=0f7b93&title_color=0f7b93&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -160,36 +118,79 @@ const rushan = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rushan-LIBT&bg_color=0a192f&color=64ffda&line=1d4ed8&point=e2e8f0&area_color=1d4ed8&area=true&hide_border=true&custom_title=Rushan's%20Contribution%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rushan-LIBT&bg_color=0d1117&color=0f7b93&line=58a6ff&point=ffffff&area_color=0f7b93&area=true&hide_border=true&custom_title=Rushan's%20Contribution%20Graph" />
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rushan-LIBT/Rushan-LIBT/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rushan-LIBT/Rushan-LIBT/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rushan-LIBT/Rushan-LIBT/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+> 💡 *To enable the snake animation, add the [GitHub Actions workflow](#-how-to-enable-snake-animation) to your profile repo!*
 
 ---
 
 <div align="center">
 
-### 🌍 About LIBT
-
-<a href="https://www.libt.co.uk">
-  <img src="https://img.shields.io/badge/🏛️_London_Institute_of_Business_&_Technology-0a192f?style=for-the-badge" />
-</a>
+### 💬 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
 
 <br/><br/>
 
-*Established in 2017 · UK-based institution providing internationally accredited*
-*undergraduate, postgraduate & executive education programmes to 4000+ professionals worldwide*
-*QAA Member · AACSB Member · CMI Partner · Headquartered in Isle of Man 🇮🇲*
-
-<br/>
-
----
-
 ### 👀 Profile Views
-<img src="https://komarev.com/ghpvc/?username=Rushan-LIBT&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Rushan-LIBT&style=for-the-badge&color=0f7b93&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1d4ed8&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f7b93&height=120&section=footer"/>
 
 </div>
+
+<!--
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   🐍 HOW TO ENABLE SNAKE ANIMATION:                 ║
+║                                                      ║
+║   1. Create .github/workflows/snake.yml in your     ║
+║      Rushan-LIBT/Rushan-LIBT repo                   ║
+║                                                      ║
+║   2. Add this workflow content:                      ║
+║                                                      ║
+║   name: Generate Snake                               ║
+║   on:                                                ║
+║     schedule:                                        ║
+║       - cron: "0 */12 * * *"                        ║
+║     workflow_dispatch:                               ║
+║   jobs:                                              ║
+║     build:                                           ║
+║       runs-on: ubuntu-latest                         ║
+║       steps:                                         ║
+║         - uses: Platane/snk@v3                      ║
+║           with:                                      ║
+║             github_user_name: Rushan-LIBT           ║
+║             outputs: |                               ║
+║               dist/github-snake.svg                  ║
+║               dist/github-snake-dark.svg             ║
+║                 ?palette=github-dark                 ║
+║         - uses: crazy-max/ghaction-github-pages@v3  ║
+║           with:                                      ║
+║             target_branch: output                    ║
+║             build_dir: dist                          ║
+║           env:                                       ║
+║             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}║
+║                                                      ║
+║   3. Go to Actions tab and run the workflow          ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+-->
