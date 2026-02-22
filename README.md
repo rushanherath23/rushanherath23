@@ -20,6 +20,8 @@
 
 ---
 
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
 ## 🧑‍💻 About Me
 
 ```yaml
@@ -35,6 +37,8 @@ currently_building:
 passion: Crafting innovative digital products for Sri Lanka
 fun_fact: "Also a 3D printing enthusiast with a CR-10S! 🖨️"
 ```
+
+<br clear="both"/>
 
 ---
 
@@ -85,35 +89,92 @@ fun_fact: "Also a 3D printing enthusiast with a CR-10S! 🖨️"
 
 ---
 
-## 🎯 What I Do
-
-```
-🌐 Web Development          ████████████████████░░░░   85%
-📱 Mobile Development       ██████████████████░░░░░░   75%
-☁️  Cloud & Backend          ████████████████████░░░░   80%
-🎨 UI/UX Design             ███████████████░░░░░░░░░   65%
-🖨️  3D Printing & Hardware   ██████████████░░░░░░░░░░   60%
-```
-
----
-
-## 📫 Let's Connect!
+## 📊 GitHub Analytics
 
 <div align="center">
 
-💼 **Open for collaborations and freelance projects!**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rushan-LIBT&show_icons=true&include_all_commits=true&theme=github_dark&border_color=0f7b93&title_color=0f7b93&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Rushan-LIBT&theme=github-dark-blue&border=0f7b93&ring=0f7b93&fire=58a6ff&currStreakLabel=0f7b93&sideLabels=c9d1d9&background=0d1117&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rushan-herath-611533235/">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:rushanherath23@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://esolutionslk.com">
-  <img src="https://img.shields.io/badge/Visit_EsolutionsLK-0f7b93?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushan-LIBT&layout=compact&theme=github_dark&border_color=0f7b93&title_color=0f7b93&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rushan-LIBT&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rushan-LIBT&bg_color=0d1117&color=0f7b93&line=58a6ff&point=ffffff&area_color=0f7b93&area=true&hide_border=true&custom_title=Rushan's%20Contribution%20Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rushan-LIBT/Rushan-LIBT/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rushan-LIBT/Rushan-LIBT/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rushan-LIBT/Rushan-LIBT/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+> 💡 *To enable the snake animation, create `.github/workflows/snake.yml` in your profile repo with the workflow below, then run it from the Actions tab!*
+
+<details>
+<summary>📋 Click to see Snake Animation Workflow</summary>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Rushan-LIBT
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+<div align="center">
+
+### 💬 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
 
 <br/><br/>
 
