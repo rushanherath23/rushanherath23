@@ -93,12 +93,22 @@ fun_fact: "Also a 3D printing enthusiast with a CR-10S! 🖨️"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rushan-LIBT&show_icons=true&include_all_commits=true&theme=github_dark&border_color=0f7b93&title_color=0f7b93&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Rushan-LIBT&theme=github-dark-blue&border=0f7b93&ring=0f7b93&fire=58a6ff&currStreakLabel=0f7b93&sideLabels=c9d1d9&background=0d1117&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+```
+🌐 Web Development          ████████████████████░░░░   85%
+📱 Mobile Development       ██████████████████░░░░░░   75%
+☁️  Cloud & Backend          ████████████████████░░░░   80%
+🎨 UI/UX Design             ███████████████░░░░░░░░░   65%
+🖨️  3D Printing & Hardware   ██████████████░░░░░░░░░░   60%
+```
 
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushan-LIBT&layout=compact&theme=github_dark&border_color=0f7b93&title_color=0f7b93&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-★★★★★-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-★★★★☆-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-★★★★☆-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-★★★★★-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-★★★★☆-0175C2?style=flat-square&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-★★★☆☆-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </div>
 
@@ -108,7 +118,14 @@ fun_fact: "Also a 3D printing enthusiast with a CR-10S! 🖨️"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rushan-LIBT&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+🥇 **Full-Stack Developer** · 🥇 **React Specialist** · 🥇 **Flutter Developer**
+
+🥈 **Cloud Architect** · 🥈 **UI/UX Designer** · 🥈 **3D Printing Enthusiast**
+
+![Commits](https://img.shields.io/badge/🔥_Active_Contributor-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)
+![PRs](https://img.shields.io/badge/🚀_Product_Builder-0d1117?style=for-the-badge&logo=rocket&logoColor=0f7b93)
+![Code](https://img.shields.io/badge/💡_Problem_Solver-0d1117?style=for-the-badge&logo=lightning&logoColor=F7DF1E)
+![Stars](https://img.shields.io/badge/⭐_Open_Source_Fan-0d1117?style=for-the-badge&logo=star&logoColor=FFCA28)
 
 </div>
 
@@ -118,7 +135,37 @@ fun_fact: "Also a 3D printing enthusiast with a CR-10S! 🖨️"
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rushan-LIBT&bg_color=0d1117&color=0f7b93&line=58a6ff&point=ffffff&area_color=0f7b93&area=true&hide_border=true&custom_title=Rushan's%20Contribution%20Graph" />
+```
+        Mon    ░░▓▓░░▓▓▓▓░░▓▓▓▓▓▓░░▓▓░░▓▓▓▓▓▓░░▓▓▓▓░░▓▓▓▓▓▓░░
+        Tue    ▓▓▓▓▓▓░░▓▓▓▓▓▓▓▓░░▓▓▓▓▓▓▓▓░░▓▓▓▓▓▓▓▓▓▓░░▓▓▓▓▓▓
+        Wed    ░░▓▓▓▓▓▓▓▓░░▓▓▓▓▓▓▓▓▓▓░░▓▓▓▓░░▓▓▓▓▓▓▓▓▓▓▓▓░░▓▓
+        Thu    ▓▓░░▓▓▓▓▓▓▓▓▓▓░░▓▓▓▓░░▓▓▓▓▓▓▓▓▓▓░░▓▓▓▓▓▓░░▓▓▓▓
+        Fri    ▓▓▓▓▓▓░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░▓▓▓▓▓▓▓▓░░▓▓▓▓▓▓▓▓▓▓▓▓
+        Sat    ░░░░▓▓░░░░▓▓░░▓▓░░░░▓▓▓▓░░░░▓▓░░▓▓░░░░▓▓░░░░▓▓
+        Sun    ░░░░░░▓▓░░░░░░░░▓▓░░░░░░▓▓░░░░░░▓▓░░░░░░░░▓▓░░
+        
+        Less ░░ ▒▒ ▓▓ ██ More          Coding every day! 💻🔥
+```
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+```
+    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+    🟩⬛⬛🟩🟩⬛⬛⬛🟩⬛🟩🟩⬛🟩⬛⬛⬛🟩⬛🟩⬛⬛🟩⬛⬛⬛🟩🟩🟩
+    🟩⬛🟩🟩🟩⬛🟩🟩🟩⬛⬛🟩⬛🟩⬛🟩🟩🟩⬛🟩⬛🟩🟩⬛🟩🟩🟩🐍🟩
+    🟩⬛🟩🟩🟩⬛🟩🟩🟩⬛🟩⬛⬛🟩⬛⬛🟩🟩⬛⬛⬛🟩🟩⬛⬛🟩🟩🟩🟩
+    🟩⬛🟩🟩🟩⬛🟩🟩🟩⬛🟩🟩⬛🟩⬛🟩🟩🟩⬛🟩⬛🟩🟩⬛🟩🟩🟩🟩🟩
+    🟩⬛⬛🟩🟩⬛⬛⬛🟩⬛🟩🟩⬛🟩⬛⬛⬛🟩⬛🟩⬛⬛🟩⬛⬛⬛🟩🟩🟩
+    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+```
+
+> 🎮 *Eating contributions one commit at a time!*
 
 </div>
 
