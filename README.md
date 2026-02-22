@@ -22,23 +22,18 @@
 
 ## 🧑‍💻 About Me
 
-```js
-const rushan = {
-    name: "Rushan Herath",
-    location: "Sri Lanka 🇱🇰",
-    company: "EsolutionsLK (Founder)",
-    role: "Full-Stack Developer & Digital Solutions Architect",
-    languages: ["Sinhala", "English", "Tamil"],
-    
-    currentlyBuilding: [
-        "🔍 SewaLanka — Service Discovery Marketplace",
-        "💬 RushChat — Real-Time Chat App with Couple Space",
-        "💖 RushHeart — Relationship Lifecycle Mobile App"
-    ],
-    
-    funFact: "Also a 3D printing enthusiast with a CR-10S! 🖨️",
-    philosophy: "Code with purpose. Build for impact. 🚀"
-};
+```yaml
+name: Rushan Herath
+location: Sri Lanka 🇱🇰
+company: EsolutionsLK (Founder)
+role: Full-Stack Developer & Digital Solutions Architect
+languages: [Sinhala, English, Tamil]
+currently_building:
+  - SewaLanka (Service Discovery Marketplace)
+  - RushChat (Real-Time Chat App)
+  - RushHeart (Relationship Lifecycle App)
+passion: Crafting innovative digital products for Sri Lanka
+fun_fact: "Also a 3D printing enthusiast with a CR-10S! 🖨️"
 ```
 
 ---
@@ -62,14 +57,12 @@ const rushan = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠️ Tools & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -79,52 +72,16 @@ const rushan = {
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🔍 SewaLanka
-**Service Discovery Marketplace**
+| 🏗️ Project | 📋 Description | 🔧 Tech Stack |
+|:-----------|:--------------|:-------------|
+| **SewaLanka** | Service discovery marketplace connecting Sri Lankan service providers with customers | React, Node.js, MongoDB |
+| **RushChat** | Feature-rich real-time chat app with unique "Couple Space" features | React, Supabase, WebSockets |
+| **RushHeart** | Innovative relationship lifecycle mobile app | Flutter, Dart, Firebase |
+| **EsolutionsLK** | Digital solutions company website & client projects | React, Vite, TailwindCSS |
 
-Sri Lankan service providers සහ customers connect කරන platform එකක්. Local businesses discover කරන්න, reviews බලන්න, bookings කරන්න.
-
-`React` `Node.js` `MongoDB` `REST API`
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 RushChat
-**Real-Time Chat Application**
-
-Unique "Couple Space" features සහිත feature-rich real-time chat app එකක්. Private messaging, group chats, media sharing.
-
-`React` `Supabase` `WebSockets` `TailwindCSS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💖 RushHeart
-**Relationship Lifecycle App**
-
-Dating stage එකෙන් couple functionality එකට transition වෙන innovative mobile app එකක්.
-
-`Flutter` `Dart` `Firebase` `Cloud Functions`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 EsolutionsLK
-**Digital Solutions Company**
-
-Website development, mobile apps, සහ comprehensive digital services provide කරන Sri Lankan company එකක්.
-
-`React` `Vite` `TailwindCSS` `Node.js`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -140,39 +97,11 @@ Website development, mobile apps, සහ comprehensive digital services provide 
 
 ---
 
-## 🌟 My Development Journey
-
-<div align="center">
-
-```
-   2017                    2020                    2023                   NOW
-    │                       │                       │                     │
-    ▼                       ▼                       ▼                     ▼
-┌────────┐           ┌────────────┐          ┌────────────┐       ┌────────────┐
-│ Started │           │  Mastered  │          │  Founded   │       │  Building  │
-│ Coding  │──────────▶│  React &   │─────────▶│ Esolutions │──────▶│  Products  │
-│  🌱     │           │  Node.js   │          │    LK      │       │   for 🇱🇰   │
-│         │           │  ⚛️  🟢     │          │    🏢       │       │   🚀       │
-└────────┘           └────────────┘          └────────────┘       └────────────┘
-                                                                         │
-                                                              ┌──────────┴──────────┐
-                                                              │  SewaLanka 🔍       │
-                                                              │  RushChat 💬        │
-                                                              │  RushHeart 💖       │
-                                                              └─────────────────────┘
-```
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
 
 💼 **Open for collaborations and freelance projects!**
-
-Whether you need a website, mobile app, or complete digital solution — let's build something amazing together.
 
 <br/>
 
@@ -191,12 +120,9 @@ Whether you need a website, mobile app, or complete digital solution — let's b
 ### 👀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=Rushan-LIBT&style=for-the-badge&color=0f7b93&label=PROFILE+VIEWS" />
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
+<!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f7b93&height=120&section=footer"/>
 
 </div>
